@@ -14,6 +14,8 @@ Este projeto é uma página web dedicada ao anime *Spy x Family*. A página apre
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
+### URL🚀: https://projeto-spyx-family.vercel.app/
+
 ## Como Clonar o Repositório
 Para clonar este repositório, siga os passos abaixo:
 
